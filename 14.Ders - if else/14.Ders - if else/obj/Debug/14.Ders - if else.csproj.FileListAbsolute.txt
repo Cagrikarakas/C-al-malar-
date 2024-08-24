@@ -1,0 +1,7 @@
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\bin\Debug\14.Ders - if else.exe.config
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\bin\Debug\14.Ders - if else.exe
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\bin\Debug\14.Ders - if else.pdb
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\obj\Debug\14.Ders - if else.csproj.AssemblyReference.cache
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\obj\Debug\14.Ders - if else.csproj.CoreCompileInputs.cache
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\obj\Debug\14.Ders - if else.exe
+D:\c# dersleri\14.Ders - if else\14.Ders - if else\obj\Debug\14.Ders - if else.pdb

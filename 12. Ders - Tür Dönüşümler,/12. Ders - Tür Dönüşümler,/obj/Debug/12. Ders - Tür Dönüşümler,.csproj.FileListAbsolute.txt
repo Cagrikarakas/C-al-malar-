@@ -1,0 +1,7 @@
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\bin\Debug\_12.Ders___Tür_Dönüşümler_.exe.config
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\bin\Debug\_12.Ders___Tür_Dönüşümler_.exe
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\bin\Debug\_12.Ders___Tür_Dönüşümler_.pdb
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\obj\Debug\12. Ders - Tür Dönüşümler,.csproj.AssemblyReference.cache
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\obj\Debug\12. Ders - Tür Dönüşümler,.csproj.CoreCompileInputs.cache
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\obj\Debug\_12.Ders___Tür_Dönüşümler_.exe
+D:\c# dersleri\12. Ders - Tür Dönüşümler,\12. Ders - Tür Dönüşümler,\obj\Debug\_12.Ders___Tür_Dönüşümler_.pdb

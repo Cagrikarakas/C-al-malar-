@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Ders kullanıcıdan Değer Alma", "11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma.csproj", "{0CD1844A-BC70-4B38-91A6-F390A9CE5332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD1844A-BC70-4B38-91A6-F390A9CE5332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD1844A-BC70-4B38-91A6-F390A9CE5332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD1844A-BC70-4B38-91A6-F390A9CE5332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD1844A-BC70-4B38-91A6-F390A9CE5332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9EEE7D-F722-47A0-81CB-ACA7E00297FB}
+	EndGlobalSection
+EndGlobal

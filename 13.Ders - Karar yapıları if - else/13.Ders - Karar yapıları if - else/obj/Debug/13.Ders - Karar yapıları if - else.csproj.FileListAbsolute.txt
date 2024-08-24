@@ -1,0 +1,7 @@
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\bin\Debug\13.Ders - Karar yapıları if - else.exe.config
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\bin\Debug\13.Ders - Karar yapıları if - else.exe
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\bin\Debug\13.Ders - Karar yapıları if - else.pdb
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\obj\Debug\13.Ders - Karar yapıları if - else.csproj.AssemblyReference.cache
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\obj\Debug\13.Ders - Karar yapıları if - else.csproj.CoreCompileInputs.cache
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\obj\Debug\13.Ders - Karar yapıları if - else.exe
+D:\c# dersleri\13.Ders - Karar yapıları if - else\13.Ders - Karar yapıları if - else\obj\Debug\13.Ders - Karar yapıları if - else.pdb

@@ -1,0 +1,7 @@
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\bin\Debug\_11.Ders___object_veri_tipi.exe.config
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\bin\Debug\_11.Ders___object_veri_tipi.exe
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\bin\Debug\_11.Ders___object_veri_tipi.pdb
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\obj\Debug\11. Ders - object veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\obj\Debug\11. Ders - object veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\obj\Debug\_11.Ders___object_veri_tipi.exe
+D:\c# dersleri\11. Ders - object veri tipi\11. Ders - object veri tipi\obj\Debug\_11.Ders___object_veri_tipi.pdb

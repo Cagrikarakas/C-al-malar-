@@ -1,0 +1,7 @@
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\bin\Debug\Ders 9 - String Veri tipi.exe.config
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\bin\Debug\Ders 9 - String Veri tipi.exe
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\bin\Debug\Ders 9 - String Veri tipi.pdb
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\obj\Debug\Ders 9 - String Veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\obj\Debug\Ders 9 - String Veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\obj\Debug\Ders 9 - String Veri tipi.exe
+D:\c# dersleri\Ders 9 - String Veri tipi\Ders 9 - String Veri tipi\obj\Debug\Ders 9 - String Veri tipi.pdb

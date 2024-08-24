@@ -1,0 +1,7 @@
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\bin\Debug\_10.Ders___Bool_veri_tipi.exe.config
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\bin\Debug\_10.Ders___Bool_veri_tipi.exe
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\bin\Debug\_10.Ders___Bool_veri_tipi.pdb
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\obj\Debug\10. Ders - Bool veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\obj\Debug\10. Ders - Bool veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\obj\Debug\_10.Ders___Bool_veri_tipi.exe
+D:\c# dersleri\10. Ders - Bool veri tipi\10. Ders - Bool veri tipi\obj\Debug\_10.Ders___Bool_veri_tipi.pdb

@@ -1,0 +1,7 @@
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\bin\Debug\_11.Ders_kullanıcıdan_Değer_Alma.exe.config
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\bin\Debug\_11.Ders_kullanıcıdan_Değer_Alma.exe
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\bin\Debug\_11.Ders_kullanıcıdan_Değer_Alma.pdb
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\obj\Debug\11. Ders kullanıcıdan Değer Alma.csproj.AssemblyReference.cache
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\obj\Debug\11. Ders kullanıcıdan Değer Alma.csproj.CoreCompileInputs.cache
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\obj\Debug\_11.Ders_kullanıcıdan_Değer_Alma.exe
+D:\c# dersleri\11. Ders kullanıcıdan Değer Alma\11. Ders kullanıcıdan Değer Alma\obj\Debug\_11.Ders_kullanıcıdan_Değer_Alma.pdb
