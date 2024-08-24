@@ -1,0 +1,7 @@
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\bin\Debug\7.Ders - Double veri tipi.exe.config
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\bin\Debug\7.Ders - Double veri tipi.exe
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\bin\Debug\7.Ders - Double veri tipi.pdb
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\obj\Debug\7.Ders - Double veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\obj\Debug\7.Ders - Double veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\obj\Debug\7.Ders - Double veri tipi.exe
+D:\c# dersleri\7.Ders - Double veri tipi\7.Ders - Double veri tipi\obj\Debug\7.Ders - Double veri tipi.pdb

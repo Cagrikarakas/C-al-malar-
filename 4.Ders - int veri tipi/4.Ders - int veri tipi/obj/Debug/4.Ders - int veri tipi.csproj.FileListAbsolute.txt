@@ -1,0 +1,7 @@
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\bin\Debug\4.Ders - int veri tipi.exe.config
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\bin\Debug\4.Ders - int veri tipi.exe
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\bin\Debug\4.Ders - int veri tipi.pdb
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\obj\Debug\4.Ders - int veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\obj\Debug\4.Ders - int veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\obj\Debug\4.Ders - int veri tipi.exe
+D:\c# dersleri\4.Ders - int veri tipi\4.Ders - int veri tipi\obj\Debug\4.Ders - int veri tipi.pdb

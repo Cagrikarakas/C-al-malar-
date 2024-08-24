@@ -1,0 +1,7 @@
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\bin\Debug\6.Ders - Float veri tipi.exe.config
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\bin\Debug\6.Ders - Float veri tipi.exe
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\bin\Debug\6.Ders - Float veri tipi.pdb
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\obj\Debug\6.Ders - Float veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\obj\Debug\6.Ders - Float veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\obj\Debug\6.Ders - Float veri tipi.exe
+D:\c# dersleri\6.Ders - Float veri tipi\6.Ders - Float veri tipi\obj\Debug\6.Ders - Float veri tipi.pdb

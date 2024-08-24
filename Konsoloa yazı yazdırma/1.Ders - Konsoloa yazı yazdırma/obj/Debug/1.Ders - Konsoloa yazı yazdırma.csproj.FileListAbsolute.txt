@@ -1,0 +1,7 @@
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\bin\Debug\1.Ders - Konsoloa yazı yazdırma.exe.config
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\bin\Debug\1.Ders - Konsoloa yazı yazdırma.exe
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\bin\Debug\1.Ders - Konsoloa yazı yazdırma.pdb
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\obj\Debug\1.Ders - Konsoloa yazı yazdırma.csproj.AssemblyReference.cache
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\obj\Debug\1.Ders - Konsoloa yazı yazdırma.csproj.CoreCompileInputs.cache
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\obj\Debug\1.Ders - Konsoloa yazı yazdırma.exe
+D:\c# dersleri\1.Ders - Konsoloa yazı yazdırma\1.Ders - Konsoloa yazı yazdırma\obj\Debug\1.Ders - Konsoloa yazı yazdırma.pdb

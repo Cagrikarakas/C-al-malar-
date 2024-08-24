@@ -1,0 +1,7 @@
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\bin\Debug\2.Ders - byte projesi.exe.config
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\bin\Debug\2.Ders - byte projesi.exe
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\bin\Debug\2.Ders - byte projesi.pdb
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\obj\Debug\2.Ders - byte projesi.csproj.AssemblyReference.cache
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\obj\Debug\2.Ders - byte projesi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\obj\Debug\2.Ders - byte projesi.exe
+D:\c# dersleri\2.Ders - byte projesi\2.Ders - byte projesi\obj\Debug\2.Ders - byte projesi.pdb

@@ -1,0 +1,7 @@
+D:\c# dersleri\3. Ders - short veri tipi\bin\Debug\_3.Ders___short_veri_tipi.exe.config
+D:\c# dersleri\3. Ders - short veri tipi\bin\Debug\_3.Ders___short_veri_tipi.exe
+D:\c# dersleri\3. Ders - short veri tipi\bin\Debug\_3.Ders___short_veri_tipi.pdb
+D:\c# dersleri\3. Ders - short veri tipi\obj\Debug\3. Ders - short veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\3. Ders - short veri tipi\obj\Debug\3. Ders - short veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\3. Ders - short veri tipi\obj\Debug\_3.Ders___short_veri_tipi.exe
+D:\c# dersleri\3. Ders - short veri tipi\obj\Debug\_3.Ders___short_veri_tipi.pdb

@@ -1,0 +1,7 @@
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\bin\Debug\_5.Ders___Long_veri_tipi.exe.config
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\bin\Debug\_5.Ders___Long_veri_tipi.exe
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\bin\Debug\_5.Ders___Long_veri_tipi.pdb
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\obj\Debug\5. Ders - Long veri tipi.csproj.AssemblyReference.cache
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\obj\Debug\5. Ders - Long veri tipi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\obj\Debug\_5.Ders___Long_veri_tipi.exe
+D:\c# dersleri\5. Ders - Long veri tipi\5. Ders - Long veri tipi\obj\Debug\_5.Ders___Long_veri_tipi.pdb
