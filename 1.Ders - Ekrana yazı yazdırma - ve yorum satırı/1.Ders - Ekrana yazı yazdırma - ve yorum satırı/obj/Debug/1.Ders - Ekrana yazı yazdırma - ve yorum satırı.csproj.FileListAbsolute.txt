@@ -1,0 +1,2 @@
+D:\c# dersleri\1.Ders - Ekrana yazı yazdırma - ve yorum satırı\1.Ders - Ekrana yazı yazdırma - ve yorum satırı\obj\Debug\1.Ders - Ekrana yazı yazdırma - ve yorum satırı.csproj.AssemblyReference.cache
+D:\c# dersleri\1.Ders - Ekrana yazı yazdırma - ve yorum satırı\1.Ders - Ekrana yazı yazdırma - ve yorum satırı\obj\Debug\1.Ders - Ekrana yazı yazdırma - ve yorum satırı.csproj.CoreCompileInputs.cache
